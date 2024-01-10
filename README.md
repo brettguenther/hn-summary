@@ -2,7 +2,7 @@
 
 Cohere and Streamlit for a simple interface to get a summary of a Hackernews thread.
 
-![Example output](https://github.com/brettguenther/hn-summary/blob/master/example_use.png?raw=true)
+![Example output](https://github.com/brettguenther/hn-summary/blob/main/example_use.png?raw=true)
 
 # Usage
 
